@@ -11,8 +11,8 @@ I’ve worked on large-scale scientific software like Nek5000, PETSc and MOOSE, 
 ### 🛠️ Skills
 
 - Programming: Python, C, C++, Fortran
-- Scientific Libraries: PETSc, MOOSE, Nek5000, NumPy
-- Specialties: PDEs, floating-point error analysis
+- Scientific Libraries: PETSc, MOOSE, Nek5000, NumPy, pyCUDA
+- Specialties: performance and floating-point error analysis
 - HPC: MPI, GPU acceleration, 
 
 <!--
