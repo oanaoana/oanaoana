@@ -4,7 +4,7 @@ Previous GitHub projects under review and soon to be released.
 
 I'm a computational scientist with a PhD in applied mathematics and 11+ years of experience in numerical analysis, scientific computing, and high-performance algorithms. I care deeply about the robustness, speed, and accuracy of the simulations we build.
 
-I’ve worked on large-scale scientific software like Nek5000, PETSc and MOOSE, tackled complex physics applications, and recently started [PeraCompute Technologies](https://peracompute.org) to focus on cutting-edge R&D.
+I’ve worked on large-scale scientific software like Nek5000, PETSc and MOOSE, tackled complex physics applications, and recently started [PeraCompute Technologies](https://peracompute.org) to focus on AI powered tools for cutting-edge R&D.
 
 ---
 
